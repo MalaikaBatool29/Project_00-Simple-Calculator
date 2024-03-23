@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.29",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "mal-project_00-calulator",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
